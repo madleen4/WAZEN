@@ -80,8 +80,9 @@ Create `backend/.env` from `backend/.env.example`:
 ## Team
 
 Built as a university team project (Group 5).
+- Madleen Alqahtani
+- Reema Alshaya
+- Sara Bawazeer
+- Renad Alduilej
+- Shayma bin Abdan
 
-- [Team member name]
-- [Team member name]
-- [Team member name]
-- Madleen
